@@ -1,0 +1,10 @@
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\bin\Debug\ImgReader.exe.config
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\bin\Debug\ImgReader.exe
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\bin\Debug\ImgReader.pdb
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\obj\Debug\ImgReader.csprojAssemblyReference.cache
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\obj\Debug\ImgReader.ImgReader.resources
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\obj\Debug\ImgReader.Properties.Resources.resources
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\obj\Debug\ImgReader.csproj.GenerateResource.cache
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\obj\Debug\ImgReader.csproj.CoreCompileInputs.cache
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\obj\Debug\ImgReader.exe
+C:\Users\Kerry\source\repos\ImgReader\ImgReader\obj\Debug\ImgReader.pdb
